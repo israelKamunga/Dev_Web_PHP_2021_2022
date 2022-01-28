@@ -7,7 +7,7 @@
   <title>Document</title>
 </head>
 <body>
-      <form action="action.php" method="POST">
+      <form action="Controller/controller.php" method="POST">
         Nom: <input type="type" placeholder="  Tapez votre nom" name="name"><br>
         PostNom : <input type="text" placeholder="  Tapez votre PostNom" name="secondname"><br>
         Prenom : <input type="text" placeholder="  Tapez votre Prenom" name="lastname"><br>
